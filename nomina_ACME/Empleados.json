@@ -1,0 +1,13 @@
+{
+    "123": {
+        "Nombre": [
+            "Juan"
+        ],
+        "Cargo": [
+            "Supervisor"
+        ],
+        "Salario": "10000000",
+        "Inasistencias": [],
+        "Bonos": []
+    }
+}
